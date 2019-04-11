@@ -219,4 +219,4 @@ How would you change your film if the audience wasn't familiar with scouting?
 
 ## Tip
 
-When creating multiple costumes, use **duplicate** to create a copy and modify it rather than having to redraw.
+[[TIP NEEDED]]
