@@ -1,4 +1,4 @@
-# Raspberry Pi Scouts activity - Graphics for games
+# Raspberry Pi Scouts activity - Video
 
 Find the resources and activities online at [fundraising.scouts.org.uk/raspberrypi](https://fundraising.scouts.org.uk/raspberrypi)
 
